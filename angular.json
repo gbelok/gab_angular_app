@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "gab-app"
+    }
+  },
+  "defaultProject": "gab-app",
+  "cli": {
+    "analytics": "fc5b21e6-11bc-452c-973d-669244ac756c"
+  }
 }
